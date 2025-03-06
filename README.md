@@ -1,2 +1,2 @@
 # test
-python thest
+python test
